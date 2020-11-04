@@ -16,7 +16,7 @@ PACKET_SIZE = 1500  # bytes
 NOISE_LOW = 0.9
 NOISE_HIGH = 1.1
 VIDEO_FOLDER = './videos/'
-COOKED_TRACE_FOLDER = './cooked_traces/'
+COOKED_TRACE_FOLDER = './train_sim_traces/'
 
 class Environment:
 	def __init__(self, 

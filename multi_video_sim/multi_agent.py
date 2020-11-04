@@ -29,9 +29,9 @@ MODEL_DIR = './models/'
 SUMMARY_DIR = './results'
 LOG_FILE = './results/log'
 TEST_LOG_FOLDER = './test_results/'
-TRAIN_TRACES = './cooked_traces/'
+TRAIN_TRACES = './train_sim_traces/'
 NN_MODEL = './models/nn_model_ep_13600.ckpt'
-# NN_MODEL = None
+NN_MODEL = None
 
 
 # for multi-video setting,

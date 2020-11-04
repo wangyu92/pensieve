@@ -136,3 +136,13 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+##############################################
+videos/
+test_video/
+cooked_traces/
+test_sim_traces/
+train_sim_traces/
+results/
+models/
+test_results/
